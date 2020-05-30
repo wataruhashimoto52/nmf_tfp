@@ -1,0 +1,9 @@
+numpy==1.17.4
+pandas==0.25.3
+scikit-learn==0.21.2
+scipy==1.4.1
+tensorboard==2.2.1
+tensorboard-plugin-wit==1.6.0.post3
+tensorflow==2.2.0
+tensorflow-estimator==2.2.0
+tensorflow-probability==0.10.0
